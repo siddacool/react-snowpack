@@ -1,4 +1,4 @@
-# New Project
+# React Snowpack template
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
