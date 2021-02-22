@@ -16,7 +16,7 @@ module.exports = {
     splitting: true,
   },
   packageOptions: {
-    /* ... */
+    source: 'remote',
   },
   devOptions: {
     /* ... */

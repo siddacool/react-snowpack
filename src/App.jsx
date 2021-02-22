@@ -1,5 +1,13 @@
-import React, { useState, useEffect } from 'react';
-import { HashRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import React, {
+  useState,
+  useEffect,
+} from 'https://cdn.skypack.dev/react@17.0.1';
+import {
+  HashRouter as Router,
+  Switch,
+  Route,
+  Link,
+} from 'https://cdn.skypack.dev/react-router-dom@5.2.0';
 import routes from './routes';
 
 const getRoutes = () => {

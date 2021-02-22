@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'https://cdn.skypack.dev/react@17.0.1';
 
 const NotFound = () => (
   <div className="vh-100 p-3 d-flex justify-content-center align-items-center">
